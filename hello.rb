@@ -23,6 +23,6 @@ puts "develop branch"
 puts "home-page branch"
 puts "develop branch again"
 
-puts "signin"
 
+puts "signout"
 
